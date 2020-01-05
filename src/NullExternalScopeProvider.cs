@@ -1,5 +1,5 @@
-﻿using Microsoft.Extensions.Logging.Abstractions.Internal;
-using System;
+﻿using System;
+using Microsoft.Extensions.Logging.AppCenter;
 
 namespace Microsoft.Extensions.Logging
 {
